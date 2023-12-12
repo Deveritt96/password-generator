@@ -6,7 +6,8 @@ This is a simple password generation website. It can create passwords that range
 
 ## Screenshot
 
-
+<img src="Screenshot.png"
+     alt="screenshot of the website" />
 ## Installation
 
 N/A
